@@ -1,6 +1,11 @@
 # Compiled object files
+spsc-*
 *.o
-*.obj
+*exe
+
+!*.cpp
+!*.hpp
+!*.h
 
 # Executables
 a.out
